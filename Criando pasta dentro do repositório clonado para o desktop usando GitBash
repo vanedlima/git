@@ -1,0 +1,4 @@
+$ git clone https://github.com/vanessalins/php2.git repositorio
+
+
+Estaremos criando uma nova pasta chamada repositório para dentro da pasta criada no desktop. Dentro dela, terá todos arquivos do outro repositório linkado.
