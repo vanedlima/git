@@ -1,0 +1,13 @@
+C:\Users\Windows>cd C:\Users\Windows\Desktop\projeto
+
+C:\Users\Windows\Desktop\projeto>mkdir php
+
+C:\Users\Windows\Desktop\projeto>cd php
+
+C:\Users\Windows\Desktop\projeto\php>git init
+
+C:\Users\Windows\Desktop\projeto\php>git add index.php
+
+C:\Users\Windows\Desktop\projeto\php>git add --all
+
+C:\Users\Windows\Desktop\projeto\php>git commit -m"criei meu repositorio"
