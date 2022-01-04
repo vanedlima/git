@@ -1,0 +1,7 @@
+Faça uma pasta no seu desktop e denomine-a "projeto". 
+Clique com botão direito nela e escolha GitBash
+Ao abrir a janela do  GitBash, digitar:  $git clone <link do repositório>
+Exemplo:
+$ git clone https://github.com/vanessalins/php2.git
+
+Dê enter que ele irá clonar seu repositório(diretório principal) e todas as subpastas desse repositório do seu GitHub para a pasta download do seu desktop em arquivo.zip. 
