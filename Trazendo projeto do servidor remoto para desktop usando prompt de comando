@@ -1,0 +1,11 @@
+C:\Users\Windows>cd C:\Users\Windows\Desktop\projeto\php
+
+C:\Users\Windows\Desktop\projeto\php>git remote add origin https://github.com/vanessalins/php1.git
+
+C:\Users\Windows\Desktop\projeto\php>git config --global user.name "Vanessa Lima"
+
+C:\Users\Windows\Desktop\projeto\php>git config --global user.email"meuendereçodeemail"
+
+C:\Users\Windows\Desktop\projeto\php>git push origin master
+
+(ele irá pedir seu e-mail e senha do Github) 
